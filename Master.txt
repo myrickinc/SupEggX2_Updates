@@ -8,5 +8,5 @@
 <End of Version>
 
 <Version: 1.03>
-/updates/ро.gif https://drive.google.com/file/d/1ecw4xbV6zNOm0tk84PNZezbTQZpyw_sr/view?usp=sharing
+/updates/шаблон_игры_по_типу_Феникса.zip https://drive.google.com/file/d/1mmBqwnRooyy_Wo3rkHtFrqxT3Xhg2h_y/view?usp=sharing
 <End of Version>
