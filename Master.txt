@@ -6,7 +6,3 @@
 <Version: 1.02>
 /updates/art.kra https://file.io/h4p0xXWo1yaq
 <End of Version>
-
-<Version: 1.03>
-/updates/шаблон_игры_по_типу_Феникса.zip https://file.io/6L9UgUuikULS
-<End of Version>
