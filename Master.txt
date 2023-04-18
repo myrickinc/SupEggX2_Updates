@@ -8,5 +8,5 @@
 <End of Version>
 
 <Version: 1.03>
-/updates/art.kra https://file.io/h4p0xXWo1yaq
+/updates/ро.gif https://drive.google.com/file/d/1ecw4xbV6zNOm0tk84PNZezbTQZpyw_sr/view?usp=sharing
 <End of Version>
